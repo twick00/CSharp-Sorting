@@ -1,0 +1,8 @@
+/Users/Guest/Desktop/CSharp-Sorting.Solution/Sorting/bin/Debug/netcoreapp1.1/Sorting.deps.json
+/Users/Guest/Desktop/CSharp-Sorting.Solution/Sorting/bin/Debug/netcoreapp1.1/Sorting.runtimeconfig.json
+/Users/Guest/Desktop/CSharp-Sorting.Solution/Sorting/bin/Debug/netcoreapp1.1/Sorting.runtimeconfig.dev.json
+/Users/Guest/Desktop/CSharp-Sorting.Solution/Sorting/obj/Debug/netcoreapp1.1/Sorting.AssemblyInfo.cs
+/Users/Guest/Desktop/CSharp-Sorting.Solution/Sorting/bin/Debug/netcoreapp1.1/Sorting.dll
+/Users/Guest/Desktop/CSharp-Sorting.Solution/Sorting/bin/Debug/netcoreapp1.1/Sorting.pdb
+/Users/Guest/Desktop/CSharp-Sorting.Solution/Sorting/obj/Debug/netcoreapp1.1/Sorting.dll
+/Users/Guest/Desktop/CSharp-Sorting.Solution/Sorting/obj/Debug/netcoreapp1.1/Sorting.pdb

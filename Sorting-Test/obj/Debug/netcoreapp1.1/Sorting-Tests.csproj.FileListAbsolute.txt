@@ -1,0 +1,13 @@
+/Users/Guest/Desktop/CSharp-Sorting.Solution/Sorting-Test/bin/Debug/netcoreapp1.1/Sorting-Tests.deps.json
+/Users/Guest/Desktop/CSharp-Sorting.Solution/Sorting-Test/bin/Debug/netcoreapp1.1/Sorting-Tests.runtimeconfig.json
+/Users/Guest/Desktop/CSharp-Sorting.Solution/Sorting-Test/bin/Debug/netcoreapp1.1/Sorting-Tests.runtimeconfig.dev.json
+/Users/Guest/Desktop/CSharp-Sorting.Solution/Sorting-Test/obj/Debug/netcoreapp1.1/Sorting-Tests.AssemblyInfo.cs
+/Users/Guest/Desktop/CSharp-Sorting.Solution/Sorting-Test/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/CSharp-Sorting.Solution/Sorting-Test/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/CSharp-Sorting.Solution/Sorting-Test/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/CSharp-Sorting.Solution/Sorting-Test/bin/Debug/netcoreapp1.1/Sorting-Tests.dll
+/Users/Guest/Desktop/CSharp-Sorting.Solution/Sorting-Test/bin/Debug/netcoreapp1.1/Sorting-Tests.pdb
+/Users/Guest/Desktop/CSharp-Sorting.Solution/Sorting-Test/bin/Debug/netcoreapp1.1/Sorting.dll
+/Users/Guest/Desktop/CSharp-Sorting.Solution/Sorting-Test/bin/Debug/netcoreapp1.1/Sorting.pdb
+/Users/Guest/Desktop/CSharp-Sorting.Solution/Sorting-Test/obj/Debug/netcoreapp1.1/Sorting-Tests.dll
+/Users/Guest/Desktop/CSharp-Sorting.Solution/Sorting-Test/obj/Debug/netcoreapp1.1/Sorting-Tests.pdb
